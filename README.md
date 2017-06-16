@@ -22,7 +22,7 @@ make
 
 Run :
 ```
-mpirun mpiClockSync -np < # no of processes here >
+mpirun build/mpiClockSync -np < # no of processes here >
 ```
 
 # Background
